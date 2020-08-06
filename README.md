@@ -1,3 +1,2 @@
 # Blackjack
-Blackjack game
-You need to install lombok.jar to active.
+lombok.jar must be downloaded to your PC before playing. 
