@@ -1,2 +1,3 @@
 # Blackjack
-Play blackjack ,beat the dealer and win as much money as possible!
+Blackjack game
+You need to install lombok.jar to active.
